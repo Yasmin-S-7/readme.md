@@ -34,10 +34,6 @@ I am Yasmin a professional full-stack developer, freelancer and a writer.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/developeratul"><img src="https://github-readme-stats.vercel.app/api?username=developeratul&show_icons=true&hide=&count_private=true&hide_border=true&theme=dracula" alt="developeratul's GitHub stats" /></a>
-
-<a href="http://www.github.com/developeratul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developeratul&hide_border=true&theme=dracula" /></a>
-
 <a href="https://github.com/developeratul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeratul&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
 
 ### Support Me
