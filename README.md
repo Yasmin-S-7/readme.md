@@ -34,8 +34,8 @@ I am Yasmin a professional full-stack developer, freelancer and a writer.
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/developeratul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeratul&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/yasmin-shafik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeratul&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/azammmgolZ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/yasmin_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
