@@ -34,7 +34,7 @@ I am Yasmin a professional full-stack developer, freelancer and a writer.
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/yasmin-shafik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeratul&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/yasmin-shafik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-shafik&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
 
 ### Support Me
 
